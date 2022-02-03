@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--selected item text color-->
+    <item android:color="?android:textColorPrimary" android:state_checked="true" />
+    <!--non selected items text colors-->
+    <item android:color="?android:textColorPrimary" android:state_checked="false" />
+</selector>
