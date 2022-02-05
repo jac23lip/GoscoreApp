@@ -8,7 +8,7 @@
         app:showAsAction="always" />
     <item
         android:id="@+id/itemPreferences"
-        android:icon="@android:drawable/ic_dialog_dialer"
+        android:icon="@drawable/ic_menu_black_24dp"
         android:title="Preferences"
         app:showAsAction="always" />
     <item

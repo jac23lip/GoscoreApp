@@ -16,7 +16,7 @@
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/recyclerView"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="740dp"
             android:layout_marginLeft="@dimen/spacing_small"
             android:layout_marginTop="@dimen/spacing_mlarge"
             android:layout_marginRight="@dimen/spacing_small"
@@ -33,6 +33,7 @@
             app:backgroundTint="@color/colorPrimaryDark"
             app:layout_anchor="@+id/recyclerView"
             app:layout_anchorGravity="top|center"
+            app:logo="@drawable/logo"
             app:menu="@menu/bottomappbar_menu" />
 
         <include
