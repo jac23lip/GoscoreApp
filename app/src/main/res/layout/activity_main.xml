@@ -29,11 +29,11 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:layout_gravity="top"
-            android:backgroundTint="@color/grey_500"
+            android:backgroundTint="@color/light_green_800"
             app:backgroundTint="@color/colorPrimaryDark"
             app:layout_anchor="@+id/recyclerView"
             app:layout_anchorGravity="top|center"
-            app:logo="@drawable/logo"
+            app:logo="@drawable/logo_3"
             app:menu="@menu/bottomappbar_menu" />
 
         <include
