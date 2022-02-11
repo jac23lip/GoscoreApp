@@ -311,4 +311,9 @@
     <color name="overlay_light_80">#CCFFFFFF</color>
     <color name="overlay_light_90">#E6FFFFFF</color>
     <color name="gray">#999797</color>
+    <color name="try1">#3A3837</color>
+    <color name="try2">#494949</color>
+    <color name="try3">#414141</color>
+    <color name="try4">#3F3F3F</color>
+    <color name="try5">#3D3D3D</color>
 </resources>

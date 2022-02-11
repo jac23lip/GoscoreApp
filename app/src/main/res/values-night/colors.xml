@@ -11,6 +11,9 @@
     <!--buttons-->
     <color name="btnBackgroundColor">#263341</color>
     <color name="gray">#999797</color>
+    <color name="try1">#3A3837</color>
+    <color name="try2">#494949</color>
+    <color name="try5">#3D3D3D</color>
 
 
 </resources>
