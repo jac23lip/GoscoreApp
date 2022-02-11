@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/blue_50"
+    android:background="?android:attr/textColorTertiaryInverse"
     tools:context=".ui.activities.MainActivity">
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout

@@ -10,6 +10,7 @@
 
     <!--buttons-->
     <color name="btnBackgroundColor">#263341</color>
+    <color name="gray">#999797</color>
 
 
 </resources>

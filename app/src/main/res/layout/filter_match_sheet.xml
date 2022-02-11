@@ -93,8 +93,10 @@
             android:layout_gravity="center"
             android:text="Cerca"
             android:textAllCaps="false"
-            android:textColor="?android:textColorPrimary"
-            app:cornerRadius="@dimen/spacing_medium" />
+            android:textColor="@color/amber_50"
+            app:backgroundTint="@color/blue_300"
+            app:cornerRadius="@dimen/spacing_medium"
+            app:iconTint="@color/amber_200" />
     </LinearLayout>
 
 </com.google.android.material.card.MaterialCardView>
